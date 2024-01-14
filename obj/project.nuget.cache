@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aWEaMLTjuYjBjrJElYZUzWeBLxE7o977bGoiWVLzFfsRhV4vZTaeAHspnuxwN5cpBjpPht9nM61nLIgCg1JHVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WOOPI\\Desktop\\nicolas\\NICOLAS\\PROJETOS\\UserPublisher\\UserPublisher\\UserPublisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WOOPI\\.nuget\\packages\\awssdk.core\\3.7.301.5\\awssdk.core.3.7.301.5.nupkg.sha512",
+    "C:\\Users\\WOOPI\\.nuget\\packages\\awssdk.sqs\\3.7.300.35\\awssdk.sqs.3.7.300.35.nupkg.sha512"
+  ],
+  "logs": []
+}
