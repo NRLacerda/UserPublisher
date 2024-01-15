@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "aWEaMLTjuYjBjrJElYZUzWeBLxE7o977bGoiWVLzFfsRhV4vZTaeAHspnuxwN5cpBjpPht9nM61nLIgCg1JHVA==",
+  "dgSpecHash": "r3ZmSGargeOFUsKgwUwKzp4/X1ideMPKx7emsSNNxed//0W6KJOgjCiSvOrIfF5ngEg7cZGn0rt8QohqqpPsDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\WOOPI\\Desktop\\nicolas\\NICOLAS\\PROJETOS\\UserPublisher\\UserPublisher\\UserPublisher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WOOPI\\.nuget\\packages\\awssdk.core\\3.7.301.5\\awssdk.core.3.7.301.5.nupkg.sha512",
-    "C:\\Users\\WOOPI\\.nuget\\packages\\awssdk.sqs\\3.7.300.35\\awssdk.sqs.3.7.300.35.nupkg.sha512"
+    "C:\\Users\\WOOPI\\.nuget\\packages\\awssdk.sqs\\3.7.300.35\\awssdk.sqs.3.7.300.35.nupkg.sha512",
+    "C:\\Users\\WOOPI\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\WOOPI\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\WOOPI\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
